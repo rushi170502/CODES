@@ -1,0 +1,60 @@
+
+// Array 03
+
+program1 :
+            WAP to print count of digits in elements of array
+            i/p : 02  255  2  1554
+            o/p : 2   3   1   4
+
+program2 :
+            WAP to print the elements in reverse order in original array
+            i/p : 234  355  11  12
+            o/p : 432  553  11  21
+
+program3 :
+            WAP to print the index of element of which is composite in array
+
+            i/p :  1  2   3  5  6
+            o/p :  6 found at index  4
+
+program4 :
+            WAP to print the index of element of which is prime in array
+
+            i/p :  10  25   36   53  50
+            o/p :  53 found at index  3
+
+program5 :
+            WAP to print thr index of perfect number in given array
+
+            i/p  : 10  25  252  496 654
+            o/p  : 496 found at 3 index
+
+program6 :
+            WAP to find the palindrome number in array and return its index;
+
+            i/p :   10  252  123  221  56
+            o/p :   252  found at index 1
+
+program7 :
+            WAP to find the strong number in array and return its index;
+
+            i/p :   10  252  123  221  145
+            o/p :   145  found at index 4
+
+program8:
+            WAP to find the Armstrong number in array and return its index;
+
+            i/p :   10  252  153  221  145
+            o/p :   153  found at index 2
+
+program9 :
+            WAP to find the second maximum number in array
+
+            i/p :  10  25  366 58 599
+            o/p :  second max = 366
+
+program10 :
+            WAP to find the second minimum number in array
+
+            i/p :  10  25  366 58 599
+            o/p :  second max = 25
