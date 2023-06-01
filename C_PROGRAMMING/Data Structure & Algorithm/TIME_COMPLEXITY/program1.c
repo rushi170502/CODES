@@ -1,6 +1,5 @@
 
-// WAP find factor
-// measuring the iteration of code
+// WAP find factor and measuring the iteration of code
 
 
 #include<stdio.h>
